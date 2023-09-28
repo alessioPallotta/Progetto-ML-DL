@@ -6,4 +6,4 @@ Il progetto è stato realizzato e runnato su Google Colab, quindi i path contenu
 
 
 Questo è il link che contiene il salvataggio dei modelli addestrati
-https://drive.google.com/drive/folders/1uhjVpawVV_6hO_UFYKlVGD6bZDQRWsp-?usp=drive_link
+https://drive.google.com/drive/folders/1uhjVpawVV_6hO_UFYKlVGD6bZDQRWsp-?usp=sharing
